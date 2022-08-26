@@ -1,0 +1,1 @@
+TinyReact.render(virtualDOM, root)
